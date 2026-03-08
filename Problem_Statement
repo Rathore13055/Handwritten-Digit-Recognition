@@ -1,0 +1,14 @@
+Problem
+
+Handwritten digit recognition is a classic problem in machine learning where the goal is to identify numerical digits written by humans.
+Humans can easily recognize handwritten numbers, but for computers it requires pattern recognition techniques.
+
+Objective
+The objective of this project is to build an interactive dashboard that allows a user to upload an image of a handwritten digit and receive the predicted number.
+
+Applications include:
+
+*Postal code recognition
+*Bank cheque processing
+*Form digitization
+*Document analysis
