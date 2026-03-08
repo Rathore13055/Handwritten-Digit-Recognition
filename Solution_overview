@@ -1,0 +1,24 @@
+Our system will work like this:
+
+      User uploads image
+              ↓
+      Image preprocessing
+              ↓
+      Machine Learning model
+              ↓
+      Prediction
+              ↓
+      Result displayed on GUI
+
+
+
+
+Technologies used:
+  
+Tool      	  Purpose
+
+Python	      Programming
+Taipy	        GUI dashboard
+Scikit-learn	ML model
+Pandas	      Data handling
+NumPy        	Numerical computation
